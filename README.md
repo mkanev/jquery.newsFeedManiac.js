@@ -1,4 +1,4 @@
-newsfeed-maniac
+NewsFeed Maniac jQuery Plugin
 ===============
 
-This lib allows you to add a newsfeed to your page in custom places. Works with RSS, Atom and Social media.
+A jQuery plugin that allows you to add a news feed to your page in custom places. Works with RSS (for now).

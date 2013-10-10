@@ -1,0 +1,10 @@
+---
+    name: NewsFeed Maniac jQuery Plugin Demo
+    description: A jQuery plugin that allows you to add a news feed to your page in custom places
+    authors:
+      - Maksim Kanev
+    resources:
+      - https://raw.github.com/mkanev/jquery.newsFeedManiac.js/master/assets/js/jquery.newsFeedManiac.min.js
+      - https://raw.github.com/mkanev/jquery.newsFeedManiac.js/master/assets/css/newsFeedManiac.min.css
+    normalize_css: no
+...
